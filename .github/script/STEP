@@ -6,3 +6,7 @@
 $ git init 
 inicializa el git dentro de la direccion de archivos donde nos encontremos
 ```
+#Lista de tareas
+- [x] Iniciar el proyecto
+- [x] Solicitar todos los acceso
+- [ ] Terminar el proyecto
