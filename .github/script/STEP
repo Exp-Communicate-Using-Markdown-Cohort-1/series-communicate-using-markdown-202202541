@@ -1,6 +1,7 @@
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
 # Modificaciones
-![Image of Naruto](https://naruto-ultimate-ninja-storm.fandom.com/wiki/Naruto_Uzumaki_(Kurama_Link_Mode)?file=Naruto_Kurama.png)
-
 ``` 
 $ git init 
 inicializa el git dentro de la direccion de archivos donde nos encontremos
