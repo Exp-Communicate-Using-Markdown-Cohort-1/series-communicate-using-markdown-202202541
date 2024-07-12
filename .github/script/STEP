@@ -2,6 +2,8 @@
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 # Modificaciones
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ``` 
 $ git init 
 inicializa el git dentro de la direccion de archivos donde nos encontremos
