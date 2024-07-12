@@ -1,3 +1,8 @@
 1
 # Modificaciones
 ![Image of Naruto](https://naruto-ultimate-ninja-storm.fandom.com/wiki/Naruto_Uzumaki_(Kurama_Link_Mode)?file=Naruto_Kurama.png)
+
+``` 
+$ git init 
+inicializa el git dentro de la direccion de archivos donde nos encontremos
+```
